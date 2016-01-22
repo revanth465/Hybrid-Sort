@@ -10,9 +10,9 @@ Functionality : This system has been implemented with sorting algorithms such as
 
 The following goals have been achieved by the above application:
 
-● The system runs in Java programming language that frequently switches between insertion and quick depending on the input data.
-● The application works within the best case time complexity of quick sort (O(nlog(n))) for any size of input file ranging from 10 to 1,00,00,000.
-● Saved 50% of time and resources by using Hybrid assembling concept that can be applied anywhere as the business logic. This system has been tested using Junit Framework in java.
+#● The system runs in Java programming language that frequently switches between insertion and quick depending on the input data.
+#● The application works within the best case time complexity of quick sort (O(nlog(n))) for any size of input file ranging from 10 to 1,00,00,000.
+#● Saved 50% of time and resources by using Hybrid assembling concept that can be applied anywhere as the business logic. This system has been tested using Junit Framework in java.
 
 Achievements: 
 -- Achieving the best case time complexity for any input size and reduced the sorting time by 50% for very large input size.
